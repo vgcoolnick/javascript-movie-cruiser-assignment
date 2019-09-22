@@ -1,6 +1,66 @@
 {
   "movies": [
+    {
+      "voteCount": 0,
+      "id": 476307,
+      "video": false,
+      "voteAverage": 0,
+      "title": "The Unique Lama",
+      "popularity": 1,
+      "posterPath": "./images/The_Unique_Lama.jpg",
+      "originalLanguage": "zh",
+      "originalTitle": "Da la ma",
+      "adult": false,
+      "releaseDate": "1978-09-15"
+    },
+    {
+      "voteCount": 74,
+      "id": 27621,
+      "video": false,
+      "voteAverage": 5,
+      "title": "The Cheetah Girls: One World",
+      "popularity": 5.000945,
+      "posterPath": "./images/The_Cheetah_Girls.jpg",
+      "originalLanguage": "en",
+      "originalTitle": "The Cheetah Girls: One World",
+      "adult": false,
+      "releaseDate": "2008-08-22"
+    },
+    {
+      "voteCount": 0,
+      "id": 142109,
+      "video": false,
+      "voteAverage": 0,
+      "title": "Unique 8",
+      "popularity": 1.007201,
+      "posterPath": "./images/Unique_8.jpg",
+      "originalLanguage": "en",
+      "originalTitle": "Unique 8",
+      "adult": false,
+      "releaseDate": "2012-01-01"
+    }
   ],
   "favourites": [
+    {
+      "id": "476307",
+      "title": "The Unique Lama",
+      "originalLanguage": "zh",
+      "posterPath": "./images/The_Unique_Lama.jpg"
+    },
+    {
+      "id": "27621",
+      "title": "The Cheetah Girls: One World",
+      "originalLanguage": "en",
+      "posterPath": "./images/The_Cheetah_Girls.jpg"
+    },
+    {
+      "id": "142109",
+      "title": "Unique 8",
+      "originalLanguage": "en",
+      "posterPath": "./images/Unique_8.jpg"
+    },
+    {
+      "id": "OG6QiKq"
+    }
   ]
 }
